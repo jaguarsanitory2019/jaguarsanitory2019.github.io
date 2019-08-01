@@ -1949,6 +1949,40 @@ body {
   color: #4f4943;
   text-align: left;
 }
+.cid-rxF4pWOUzI {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #cccccc;
+}
+.cid-rxF4pWOUzI h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rxF4pWOUzI p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-rxF4pWOUzI .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rxF4pWOUzI .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rxF4pWOUzI .mbr-text {
+  color: #767676;
+}
+.cid-rxF4pWOUzI .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rxF4pWOUzI .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
 .cid-rwuUgq3DSj {
   padding-top: 30px;
   padding-bottom: 30px;
